@@ -1,0 +1,8 @@
+.cabeçalho_menu-hamburguer {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
+.cabeçalho {
+    background-color: rgb(120, 17, 157);
+}
